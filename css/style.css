@@ -3,7 +3,88 @@ nav{
     display: flex;
     height: 40px;
 }
+
 footer{
     background-color: black;
     height: 40px;
+}
+
+.título{
+    font-size: 2rem;
+    color: rgb(62, 62, 183);
+    background-color: rgb(19, 231, 107);
+    padding: 10px;
+    text-align: center;
+}
+
+.img{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.img2{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.img3{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.vídeo{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.desde{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.O{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.I{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Em{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Copa{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.A{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.F{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.D{
+    height: 100%;
+    display: flex;
+    justify-content: center;
 }
